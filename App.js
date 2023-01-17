@@ -4,7 +4,7 @@ import {
   heightPercentageToDP as hp,
   widthPercentageToDP as wp,
 } from 'react-native-responsive-screen';
-import ProgressCircle from './src/components/RecordButton';
+import ProgressCircle from './RecordButton';
 
 const App = () => {
   const [photoClicked, setPhotoClicked] = useState(false);
