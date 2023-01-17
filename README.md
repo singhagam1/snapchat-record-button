@@ -11,4 +11,4 @@ A simple project that demostrate the usage of a custom snapchat button made with
 
 # Example
 
-![](https://github.com/singhagam1/snapchat-record-button/example.gif)
+![](https://github.com/singhagam1/snapchat-record-button/blob/main/example.gif)
